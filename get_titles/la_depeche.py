@@ -3,7 +3,6 @@ from time import sleep
 import csv
 from bs4 import BeautifulSoup
 import requests
-from trafilatura import extract
 
 
 def get_articles(date):
