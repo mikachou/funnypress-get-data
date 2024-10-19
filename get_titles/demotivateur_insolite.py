@@ -19,7 +19,7 @@ for i in range(1, 158):
     contents = []
     for article in articles:
         content = {
-            'url': 'https://www.rfi.fr{}'.format(article['href']),
+            'url': 'https://www.demotivateur.fr{}'.format(article['href']),
             'title': article.select_one('h2').text.strip()
         }
         contents.append(content)

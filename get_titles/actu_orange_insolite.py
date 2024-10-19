@@ -15,7 +15,7 @@ articles = soup.select('div#showMore a')
 contents = []
 for article in articles:
     content = {
-        'url': 'https://www.rfi.fr{}'.format(article['href']),
+        'url': article['href'],
         'title': article.select_one('h2').text.strip()
     }
     contents.append(content)
