@@ -25,7 +25,7 @@ $ git clone https://github.com/mikachou/house-prices
 
 Then enter the folder
 ```
-$ cd house-prices
+$ cd funnypress-get-data
 ```
 
 2. install right python version with pyenv :
