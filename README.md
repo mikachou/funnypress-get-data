@@ -20,7 +20,7 @@ The following install procedure requires `pyenv` and its plugin `pyenv-virtualen
 1. clone the repository
 
 ```
-$ git clone https://github.com/mikachou/house-prices
+$ git clone https://github.com/mikachou/funnypress-get-data
 ```
 
 Then enter the folder
