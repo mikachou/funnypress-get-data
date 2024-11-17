@@ -66,9 +66,9 @@ $ pip install -r requirements.txt
 ## Usage
 
 Once in Virtualenv execute python scripts to extract texts from the sources, e.g :
-`python get_full_articles/gorafisation.py`
+`python get_full_articles/francetvinfo.py`
 to get full articles
 
 or
-`python get_titles/gorafisation.py`
+`python get_titles/francetvinfo.py`
 to get only titles
